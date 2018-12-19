@@ -29,7 +29,7 @@ class MainActivity : AppCompatActivity() {
         users.add(User("Home"))
         users.add(User("Home"))
         users.add(User("Home"))
-        users.add(User("Home"))
+        users.add(User("Economy"))
 
         val adapter = PostAdapater(users)
 
